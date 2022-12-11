@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Ben Thai and Im a Full Stack Software Engineer
-## Here are some projects that im proud of
-😄 [Pienimos](https://pienimos.onrender.com/) 😄
-😄 [Zonar](https://aa-zonar.onrender.com/) 😄
+
 ##
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-thai-6a1285127/)
 <!--
