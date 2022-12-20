@@ -1,7 +1,9 @@
 ### Hi there 👋 My name is Ben Thai and Im a Full Stack Software Engineer
 
-##
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-thai-6a1285127/)
+-🔭 I’m currently working on incorpertaing google maps AWS into my Airbnb Clone
+-⚡ When Im not coding I enjoy Snowboarding, Boxing, and Video Games
+-💬 Checkout my [Portfolio](https://benties.github.io/)
+-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-thai-6a1285127/)
 <!--
 **Benties/Benties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
