@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ben Thai and Im a Full Stack Software Engineer
 
-- 🔭 I’m currently working on incorporating Google Maps Api into my Dominos Clone
+- 🔭 I’m currently working on a restock alert app. 
 - ⚡ When Im not coding I enjoy Snowboarding, Boxing, and Video Games
 - 💬 Checkout my [Portfolio](https://benties.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-thai-6a1285127/)
