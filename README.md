@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ben Thai and Im a Full Stack Software Engineer
 #### My mission is to take ownership and pride in every aspect of my work, consistently delivering outstanding results and continuously striving for self-improvement.
-- 🔭 I’m currently working on a restock alert app. 
+- 🔭 I’m currently working on [NFWSupply](https://nfwsupply.com/)v. 
 - 📖 Currently reading God Emperor of Dune
 - ⚡ When Im not coding I enjoy Snowboarding, Boxing, and Video Games
 - 💬 Checkout my [Portfolio](https://benties.github.io/)
